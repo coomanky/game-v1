@@ -2,7 +2,7 @@
 
 print("hello and welcome to (game v2) , in this game you will be answering a series of questions to help inprove your knowledge of global warming ")
 
-print (" 1 ")
+print (" ")
 
 name = input ("What is your name? ")
 print ("Hello " + name)
